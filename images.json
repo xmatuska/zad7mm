@@ -1,0 +1,17 @@
+ [
+    {
+      "src": "bike.jpg",
+      "title": "bike",
+      "description": "Dlhší popis obrázku 1"
+    },
+    {
+      "src": "cesta.jpg",
+      "title": "cesta",
+      "description": "Dlhší popis obrázku 2"
+    },
+    {
+      "src": "hory.jpg",
+      "title": "hory",
+      "description": "Dlhší popis obrázku 3"
+    }      
+  ]
